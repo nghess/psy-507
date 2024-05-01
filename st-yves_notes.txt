@@ -1,0 +1,11 @@
+what does the smoothness loss function do?
+
+what does squared correlation coefficient with leak do?
+
+joined = all areas
+roi-wise = by area
+
+
+todo:
+confirm P is model prediction accuracy and that dots are voxels <- confirmed, Rho is model prediction and advantage/accuracy plot show voxel accuracy difference between models
+visit each figure and confirm understanding/take notes
